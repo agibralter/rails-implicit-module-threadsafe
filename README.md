@@ -1,0 +1,2 @@
+rails-implicit-module-threadsafe
+================================
